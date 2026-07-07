@@ -59,12 +59,11 @@ The portfolio serves as a central hub to display skills, experience, and project
 
 ## Live Demo
 
-| Resource | Link |
-| :--- | :--- |
-| **🌐 Live Portfolio** | [https://portfoliobyaman.vercel.app/](https://portfoliobyaman.vercel.app/) |
-| **💻 GitHub Repository** | [https://github.com/obscure-01/Portfolio](https://github.com/obscure-01/Portfolio) |
-| **👨‍💼 LinkedIn** | [https://www.linkedin.com/in/amanchapadiya/](https://www.linkedin.com/in/amanchapadiya/) |
-| **📧 Email** | [chapadiya.aman@gmail.com](mailto:chapadiya.aman@gmail.com) |
+Explore the live version of the project:
+
+**Live Website:** https://portfoliobyaman.vercel.app/
+
+The live deployment showcases the interactive design layout, visual hierarchy structures, responsive grid configurations, and custom styled background hover elements.
 
 ---
 
@@ -246,9 +245,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 
 **Aman Chapadiya**
-- **GitHub:** [@obscure-01](https://github.com/obscure-01)
+- **GitHub:** [obscure-01](https://github.com/obscure-01)
 - **LinkedIn:** [Aman Chapadiya](https://www.linkedin.com/in/amanchapadiya/)
 - **Email:** [chapadiya.aman@gmail.com](mailto:chapadiya.aman@gmail.com)
+- **Portfolio:** [https://portfoliobyaman.vercel.app/](https://portfoliobyaman.vercel.app/)
 
 ---
 
