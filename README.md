@@ -12,7 +12,6 @@ A professional, responsive, single-page developer portfolio website presenting t
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Responsive](https://img.shields.io/badge/Responsive-Yes-blueviolet.svg?style=flat)](#responsive-design)
-[![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg?style=flat)](#)
 
 ---
 
@@ -60,13 +59,12 @@ The portfolio serves as a central hub to display skills, experience, and project
 
 ## Live Demo
 
-Explore the live portfolio and related profiles:
-
-| Reference | Location |
+| Resource | Link |
 | :--- | :--- |
-| **Live Portfolio** | [https://obscure-01.github.io/Portfolio/](https://obscure-01.github.io/Portfolio/) |
-| **GitHub Repository** | [https://github.com/obscure-01/Portfolio](https://github.com/obscure-01/Portfolio) |
-| **LinkedIn Profile** | [https://www.linkedin.com/in/amanchapadiya/](https://www.linkedin.com/in/amanchapadiya/) |
+| **🌐 Live Portfolio** | [https://portfoliobyaman.vercel.app/](https://portfoliobyaman.vercel.app/) |
+| **💻 GitHub Repository** | [https://github.com/obscure-01/Portfolio](https://github.com/obscure-01/Portfolio) |
+| **👨‍💼 LinkedIn** | [https://www.linkedin.com/in/amanchapadiya/](https://www.linkedin.com/in/amanchapadiya/) |
+| **📧 Email** | [chapadiya.aman@gmail.com](mailto:chapadiya.aman@gmail.com) |
 
 ---
 
@@ -99,7 +97,7 @@ Explore the live portfolio and related profiles:
 | **Typography** | Inter & Poppins | Google Fonts imported for readable paragraphs and clean headings |
 | **Icons** | FontAwesome 6.4.0 & Devicon | Lightweight scalable SVG vector icons |
 | **Asset Host** | Cloudinary | Delivers optimized profile portrait image from cloud CDN |
-| **Deployment** | GitHub Pages | Hosting infrastructure for static assets |
+| **Deployment** | Vercel | Hosting infrastructure for static assets |
 
 ---
 
@@ -200,15 +198,16 @@ Responsiveness is handled in `style.css` via custom media breakpoints:
 
 ## Deployment
 
-The application is deployed on **GitHub Pages**. Deploys trigger automatically when changes are pushed to the `main` branch.
+The application is deployed on **Vercel** at the following URL:
+[https://portfoliobyaman.vercel.app/](https://portfoliobyaman.vercel.app/)
 
-### Manual Static Deployment (Vercel CLI)
-To deploy the directory directly to Vercel:
-1. Initialize the project:
-   ```bash
-   vercel
-   ```
-2. Set the build parameters to default values (Static directory, no build command).
+### Deployment Instructions on Vercel
+To deploy this project to Vercel:
+1. Push your code to your GitHub repository.
+2. Go to the [Vercel Dashboard](https://vercel.com/dashboard) and click **Add New Project**.
+3. Import the `Portfolio` repository.
+4. Select the default project configuration (Vercel automatically detects static HTML/CSS configurations with no build step required).
+5. Click **Deploy**.
 
 ---
 
@@ -223,7 +222,7 @@ To deploy the directory directly to Vercel:
 ## Future Improvements
 
 - [ ] **Dark Mode Toggle:** Ingest preferences via `@media (prefers-color-scheme: dark)` or a manual toggle.
-- [ ] **Serverless Contact Form:** Link the contact elements to a form validation service (e.g. Formspree).
+- [ ] **Contact Form Endpoint:** Link the contact elements to a form validation service (e.g. Formspree).
 - [ ] **Dynamic Project Filters:** Apply client-side JavaScript filtering to isolate projects by tag.
 
 ---
